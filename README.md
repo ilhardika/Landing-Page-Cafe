@@ -8,7 +8,7 @@ A responsive cafe landing page created using Tailwind CSS, showcasing my first p
 
 - Fully responsive design
 - Tailwind CSS implementation
-- Modular class structure
+- Some Modular class structure
 - Modern and attractive layout
 
 ## 🚀 Tech Stack

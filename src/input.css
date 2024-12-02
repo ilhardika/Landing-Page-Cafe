@@ -29,7 +29,7 @@ body {
 }
 
 .card-product {
-  @apply w-full transform rounded-xl bg-primary-100 px-2 text-center text-2xl font-medium text-white shadow-lg transition-transform duration-300 ease-in-out hover:scale-105 sm:w-1/2 md:w-1/5;
+  @apply w-full transform rounded-xl bg-primary-100 px-2 text-center text-2xl font-medium text-white shadow-lg transition-transform duration-300 ease-in-out hover:scale-105 md:w-1/5;
 }
 
 .card-testimony {
